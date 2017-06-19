@@ -12,11 +12,11 @@ const Container = styled.View`
   margin: 20px;
 `;
 
-export default class VueJS extends Component {
+export default class Vue extends Component {
   render() {
     return (
       <Container>
-        <Image source={require('./img/vue.png')}/>
+        <Image source={require('./img/jeopardy-vue.png')}/>
       </Container>
     );
   }

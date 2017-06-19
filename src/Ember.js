@@ -12,11 +12,11 @@ const Container = styled.View`
   margin: 20px;
 `;
 
-export default class EmberJS extends Component {
+export default class Ember extends Component {
   render() {
     return (
       <Container>
-        <Image source={require('./img/ember.png')}/>
+        <Image source={require('./img/jeopardy-ember.png')}/>
       </Container>
     );
   }
