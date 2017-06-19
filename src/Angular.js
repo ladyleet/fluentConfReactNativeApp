@@ -12,7 +12,7 @@ const Container = styled.View`
   margin: 20px;
 `;
 
-export default class AngularJS extends Component {
+export default class Angular extends Component {
   render() {
     return (
       <Container>

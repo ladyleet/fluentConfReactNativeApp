@@ -12,7 +12,7 @@ const Container = styled.View`
   margin: 20px;
 `;
 
-export default class EmberJS extends Component {
+export default class Ember extends Component {
   render() {
     return (
       <Container>

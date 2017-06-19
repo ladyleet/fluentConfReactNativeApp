@@ -12,7 +12,7 @@ const Container = styled.View`
   margin: 20px;
 `;
 
-export default class VueJS extends Component {
+export default class Vue extends Component {
   render() {
     return (
       <Container>
